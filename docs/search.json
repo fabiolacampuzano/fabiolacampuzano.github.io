@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "UCLA Rissman Memory Lab\nSupported behavioral research examining memory, consolidation, and creativity through experimental and survey-based methods.\n\nDeveloped 4 Qualtrics surveys and experimental protocols for behavioral research.\nSupported the development and implementation of cognitive and creativity measures.\nContributed to stimulus selection, study design, and experimental procedures.\nManaged human-subject data collection procedures for 1.5-hour experimental sessions.\nMaintained study documentation and followed research protocols to support data quality and consistency.\nGained experience with EEG research methods and behavioral data collection.\n\nSkills: Behavioral Research Qualtrics Experimental Design Human-Subjects Research EEG Data Collection"
+  },
+  {
+    "objectID": "experience.html#research-experience",
+    "href": "experience.html#research-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "UCLA Rissman Memory Lab\nSupported behavioral research examining memory, consolidation, and creativity through experimental and survey-based methods.\n\nDeveloped 4 Qualtrics surveys and experimental protocols for behavioral research.\nSupported the development and implementation of cognitive and creativity measures.\nContributed to stimulus selection, study design, and experimental procedures.\nManaged human-subject data collection procedures for 1.5-hour experimental sessions.\nMaintained study documentation and followed research protocols to support data quality and consistency.\nGained experience with EEG research methods and behavioral data collection.\n\nSkills: Behavioral Research Qualtrics Experimental Design Human-Subjects Research EEG Data Collection"
+  },
+  {
+    "objectID": "experience.html#leadership-community-experience",
+    "href": "experience.html#leadership-community-experience",
+    "title": "Experience",
+    "section": "Leadership & Community Experience",
+    "text": "Leadership & Community Experience\n\nLatinx Admit Weekend at UCLA\nDesign, Entertainment & Social Media Committee\nContributed to the planning, promotion, and execution of a 3-day admitted-student program designed to connect newly admitted Latinx students and their families with UCLA resources and community.\n\nParticipated in weekly planning meetings and coordinated programming and event logistics serving 50+ attendees\nDesigned 10+ promotional graphics and flyers for fundraising events, networking opportunities, and event countdowns\nManaged and scheduled content across 4 social media platforms: Instagram, Facebook, X, and LinkedIn\nSupported digital outreach to an audience of 1,500+ followers\n\nSkills: Project Coordination Social Media Digital Communication Graphic Design Community Outreach\n\n\nUCLA Blood & Platelet Center\nVolunteer\nSupported a campus blood donation event through donor outreach and on-site assistance.\n\nPromoted blood donation by explaining eligibility requirements and recruiting potential donors, supporting an event goal of approximately 40 pints\nHelped guide and assist 40+ donors throughout the donation process\nAssisted with event setup and donor-care areas, including preparation of the gym and refreshment station\n\nSkills: Health Outreach Community Engagement Event Support Communication\n\n\nBeyond the Bell LAUSD Tobacco Use Prevention Education\nPeer Health Advocate\nSupported tobacco-use prevention and health education initiatives focused on smoking and vaping.\n\nResearched the health effects of smoking and vaping and translated findings into 5+ educational posters and 1 presentation\nParticipated in weekly peer meetings over an 11-month program to discuss tobacco prevention and community outreach\nDeveloped educational materials promoting tobacco prevention and healthier alternatives\n\nSkills: Health Education Health Communication Research Community Outreach"
+  },
+  {
+    "objectID": "experience.html#technical-skills",
+    "href": "experience.html#technical-skills",
+    "title": "Experience",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming & Data Analysis:\nR Python MATLAB Stata SQL C++ Git/GitHub\n\nStatistical Methods\n\nRegression and Linear Models\nANOVA and Experimental Design\nTime Series Analysis and Forecasting\nStatistical Learning and Classification\nProbability and Mathematical Statistics\nMonte Carlo Methods\nSurvey and Sampling Methods\nModel Diagnostics\n\n\n\nResearch Methods\n\nBehavioral Experimental Design\nHuman-Subjects Research\nQualtrics Survey Development\nBehavioral Data Collection\nEEG Research Methods\nCognitive and Memory Measures\nSurvey Design\nLiterature Review\n\nPython Libraries:\nPandas NumPy Matplotlib Seaborn Polars\nData & Research Tools:\nQualtrics Excel Tableau Power BI LaTeX"
+  },
+  {
+    "objectID": "experience.html#relevant-coursework",
+    "href": "experience.html#relevant-coursework",
+    "title": "Experience",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\n\nStatistics & Data Science\n\nMATH 170E - Introduction to Probability and Statistics 1: Probability\nSTATS 100B - Introduction to Mathematical Statistics\nSTATS 100C - Linear Models\nSTATS 101A - Introduction to Data Analysis and Regression\nSTATS 101B - Introduction to Design and Analysis of Experiment\nSTATS 101C - Introduction to Statistical Models and Data Mining\nSTATS 102A - Introduction to Computational Statistics with R\nSTATS 102B - Introduction to Computation and Optimization for Statistics\nSTATS 102C - Introduction to Monte Carlo Methods\nSTATS 140XP/141XP - Practice of Statistical Consulting\nSTATS C155 - Applied Sampling\nSTATS 170 - Introduction to Time Series Analysis\n\n\n\nCognitive Science\n\nPSYCH 20A/B - MATLAB Programming for Behavioral Sciences\nPSYCH 100A - Psychological Statistics\nPSYCH 100B - Research Methods in Psychology\nPSYCH 110 - Fundamentals of Learning\nPSYCH 115 - Principles of Behavioral Neuroscience\nPSYCH 120A - Cognitive Psychology\nPSYCH 120B - Sensation and Perception\nPSYCH 121 - Laboratory in Cognitive Psychology\nPSYCH 124C - Human Memory\nPSYCH 130 - Developmental Psychology\nPSYCH 135 - Social Psychology\nPSYCH 155A - Social Neuroscience"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "A selection of projects in statistical analysis, behavioral research, cognitive science, and health research."
+  },
+  {
+    "objectID": "projects.html#time-series-analysis-of-u.s.-hispanic-and-latino-unemployment",
+    "href": "projects.html#time-series-analysis-of-u.s.-hispanic-and-latino-unemployment",
+    "title": "Portfolio",
+    "section": "Time Series Analysis of U.S. Hispanic and Latino Unemployment",
+    "text": "Time Series Analysis of U.S. Hispanic and Latino Unemployment\nTime Series | Forecasting | R\nAnalyzed monthly U.S. Hispanic and Latino unemployment rates from 1973–2026 using differencing, ACF/PACF diagnostics, and SARIMA modeling to identify temporal patterns, evaluate economic shocks, and generate forecasts.\nMethods: R · Time Series Analysis · SARIMA · Forecasting · ACF/PACF · Model Diagnostics · Data Visualization ·\nView Project →"
+  },
+  {
+    "objectID": "projects.html#fill_ng-in-th_-bl_nks-the-value-of-orthographic-cues",
+    "href": "projects.html#fill_ng-in-th_-bl_nks-the-value-of-orthographic-cues",
+    "title": "Portfolio",
+    "section": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "text": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues\nCognitive Psychology | Experimental Design | Statistical Analysis\nThis experimental study examined whether removing a vowel from words, or decreasing available orthographic cues, influences memory performance and subjective cognitive load ratings.\nMethods: Experimental Design · Cognitive Psychology · Memory Research · Data Analysis · Hypothesis Testing · Research Methods · Scientific Communication ·\nView Project →"
+  },
+  {
+    "objectID": "projects.html#pedestrian-phone-use-study",
+    "href": "projects.html#pedestrian-phone-use-study",
+    "title": "Portfolio",
+    "section": "Pedestrian Phone Use Study",
+    "text": "Pedestrian Phone Use Study\nSurvey Research | Sampling | Stata\nDesigned and conducted a cluster sampling study of 983 pedestrians across 20 randomly selected UCLA walkways to estimate pedestrian phone use. Used survey-weighted analysis in Stata to estimate that 20.65% of pedestrians were actively looking at their phones while walking.\nMethods: Probability Sampling · Cluster Sampling · Survey Analysis · Stata · Field Data Collection · Statistical Inference · Study Design ·\nView Project →"
+  },
+  {
+    "objectID": "projects.html#predictive-analysis-of-skin-cancer",
+    "href": "projects.html#predictive-analysis-of-skin-cancer",
+    "title": "Portfolio",
+    "section": "Predictive Analysis of Skin Cancer",
+    "text": "Predictive Analysis of Skin Cancer\nHealth Data | Machine Learning | R\nDeveloped and evaluated statistical learning models to classify skin cancer status using 50 clinical and behavioral predictors across 70,000 training and test observations. Applied missing-data imputation, feature engineering, Partial Least Squares, and Elastic Net to develop a weighted ensemble model that achieved a 0.60640 Kaggle score.\nMethods: Statistical Learning · R · Classification · Elastic Net · Partial Least Squares · Logistic Regression · Feature Engineering · Missing Data · Model Evaluation ·\nView Project →"
+  },
+  {
+    "objectID": "projects.html#hypothalamus-stress",
+    "href": "projects.html#hypothalamus-stress",
+    "title": "Portfolio",
+    "section": "Hypothalamus & Stress",
+    "text": "Hypothalamus & Stress\nNeuroscience | Health Research | Scientific Communication\nDesigned and analyzed a randomized complete block experiment with 72 participants to investigate the effects of hypothalamic lesions and exercise intensity on cortisol responses to physiological stress. Applied ANOVA, Tukey HSD, power analysis, and residual diagnostics in R, identifying significant effects of lesion status and sex on post-exercise cortisol levels.\nMethods: Experimental Design · R · ANOVA · Randomized Complete Block Design · Power Analysis · Interaction Effects · Tukey HSD · Model Diagnostics ·\nView Project →"
+  },
+  {
+    "objectID": "projects/word-format-memory.html",
+    "href": "projects/word-format-memory.html",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "",
+    "text": "This experimental study examined whether removing a vowel from words, or decreasing available orthographic cues, influences memory performance and subjective cognitive load ratings.\nBased on the generation effect, actively filling in missing vowels may promote deeper processing and improve later recall. However, reconstructing incomplete words may also require greater mental effort, potentially increasing cognitive load and interfering with encoding."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#overview",
+    "href": "projects/word-format-memory.html#overview",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "",
+    "text": "This experimental study examined whether removing a vowel from words, or decreasing available orthographic cues, influences memory performance and subjective cognitive load ratings.\nBased on the generation effect, actively filling in missing vowels may promote deeper processing and improve later recall. However, reconstructing incomplete words may also require greater mental effort, potentially increasing cognitive load and interfering with encoding."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#research-question",
+    "href": "projects/word-format-memory.html#research-question",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Research Question",
+    "text": "Research Question\nDoes reconstructing words with missing vowels affect memory performance and perceived cognitive load compared with reading intact words?"
+  },
+  {
+    "objectID": "projects/word-format-memory.html#study-design",
+    "href": "projects/word-format-memory.html#study-design",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Study Design",
+    "text": "Study Design\nThe study used a within-subjects design in which participants studied two memory lists:\n\nIntact condition: words were presented normally (e.g., Kale, Tomato, Flour)\nFragmented condition: one vowel was removed from each word (e.g., M_yonnaise, Blueb_rries, G_rlic)\n\nThe independent variable was vowel presence (intact vs. fragmented).\nThe primary outcomes included:\n\nCorrect recall\nFalse recall\nPerceived difficulty\nStressfulness\nAnnoyance\n\nList category and presentation order were counterbalanced across four experimental forms."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#experimental-procedure",
+    "href": "projects/word-format-memory.html#experimental-procedure",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Experimental Procedure",
+    "text": "Experimental Procedure\nEach participant completed the following sequence for both word-list conditions:\n1. Encoding → 2. Distractor Task → 3. Free Recall → 4. Post-Task Ratings\nDuring encoding, participants viewed 25 grocery or bedroom items presented sequentially for 2 seconds each, with a 1-second interval between words.\nParticipants then completed a 30-second arithmetic distractor task followed by a free-recall test in which they entered as many words as they could remember.\nFinally, participants rated the difficulty, stressfulness, and annoyance of the task using 6-point scales."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#participants",
+    "href": "projects/word-format-memory.html#participants",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Participants",
+    "text": "Participants\nTwenty-eight undergraduate students initially participated in the study.\nParticipants who reported being unable to identify fragmented words were excluded from the primary filtered analysis because they were unable to properly decode the stimuli, resulting in a final sample of 16 participants."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#results",
+    "href": "projects/word-format-memory.html#results",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Results",
+    "text": "Results\n\nMemory Recall\nParticipants recalled more words in the intact condition (M = 10.25, SD = 4.31) than in the fragmented condition (M = 8.06, SD = 4.11) in the filtered sample.\nThe difference was not statistically significant, t(15) = 1.83, p = .087, d = 0.46.\n\n\n\nMean number of correctly recalled words by word format. Error bars represent standard error.\n\n\n\n\nFalse Recall\nParticipants produced more false recalls in the fragmented condition (M = 0.94, SD = 2.24) than in the intact condition (M = 0.31, SD = 0.48).\nHowever, the difference was not statistically significant.\n\n\n\nMean number of falsely recalled words by word format. Error bars represent standard error.\n\n\n\n\nSubjective Cognitive Load\nFragmented word lists tended to be rated as more difficult and stressful, while annoyance ratings were approximately equal between conditions. These differences were not statistically significant.\n\n\n\nMean ratings of annoyance, difficulty, and stressfulness by word format. Error bars represent standard error."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#interpretation",
+    "href": "projects/word-format-memory.html#interpretation",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Interpretation",
+    "text": "Interpretation\nOverall, reconstructing words with missing vowels did not improve recall and may have made the task more cognitively demanding.\nOne possible explanation is that reconstructing fragmented words increased cognitive load and offset the benefits of the generation effect. Participants first had to decode a fragmented word before processing its meaning. This additional step may have consumed working-memory resources that otherwise could have been used to encode the word.\nThe higher level of false recall in the fragmented condition may also suggest greater reliance on semantic associations and category-based schemas when the presented words were more weakly encoded."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#limitations",
+    "href": "projects/word-format-memory.html#limitations",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Limitations",
+    "text": "Limitations\nSeveral limitations should be considered:\n\nWords were displayed for a fixed amount of time, so participants may have spent much of the available time decoding fragmented words rather than encoding them.\nWord lists were not necessarily equivalent in their predictability within each semantic category.\nExcluding participants who could not identify fragmented words reduced the final sample to 16 participants and may have lowered statistical power."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#future-research",
+    "href": "projects/word-format-memory.html#future-research",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Future Research",
+    "text": "Future Research\nFuture studies could manipulate the amount of time participants have to study each word. Increasing exposure time may allow participants to reconstruct fragmented words while still having sufficient time to process their meaning.\nFuture research could also examine whether individual differences in working-memory capacity influence the ability to reconstruct fragmented words while simultaneously encoding them into memory."
+  },
+  {
+    "objectID": "projects/word-format-memory.html#skills-demonstrated",
+    "href": "projects/word-format-memory.html#skills-demonstrated",
+    "title": "Fill_ng in th_ Bl_nks: The Value of Orthographic Cues",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nExperimental Design Cognitive Psychology Memory Research Data Analysis Hypothesis Testing Research Methods Scientific Communication"
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html",
+    "href": "projects/hypothalamus-stress.html",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "",
+    "text": "This project examined the effects of exercise intensity and hypothalamic lesion status on cortisol levels, a biomarker of physiological stress.\nThe hypothalamus plays an important role in regulating the body’s stress response through the hypothalamic-pituitary-adrenal (HPA) axis. Damage to the hypothalamus may therefore interfere with normal cortisol production and stress regulation.\nThe study used a randomized complete block design to investigate whether cortisol responses differed between individuals with and without hypothalamic lesions and whether those differences depended on exercise intensity."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#overview",
+    "href": "projects/hypothalamus-stress.html#overview",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "",
+    "text": "This project examined the effects of exercise intensity and hypothalamic lesion status on cortisol levels, a biomarker of physiological stress.\nThe hypothalamus plays an important role in regulating the body’s stress response through the hypothalamic-pituitary-adrenal (HPA) axis. Damage to the hypothalamus may therefore interfere with normal cortisol production and stress regulation.\nThe study used a randomized complete block design to investigate whether cortisol responses differed between individuals with and without hypothalamic lesions and whether those differences depended on exercise intensity."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#research-question",
+    "href": "projects/hypothalamus-stress.html#research-question",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Research Question",
+    "text": "Research Question\nHow do hypothalamic lesions and varying intensities of exercise affect cortisol responses?\nThe study also examined whether there was an interaction between lesion status and exercise intensity and whether sex influenced cortisol levels as a blocking factor."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#methods",
+    "href": "projects/hypothalamus-stress.html#methods",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Methods",
+    "text": "Methods\nThe study used a Randomized Complete Block Design with two treatment factors.\n\nTreatment Factors\nHypothalamic lesion status\n\nHypothalamic lesion\nNo lesion\n\nExercise intensity\n\nLow\nMedium\nHigh\n\n\n\nBlocking Factor\nSex\n\nMale\nFemale\n\nThe study included 72 participants, with 36 males and 36 females. Participants were randomly assigned in R to one of six combinations of lesion status and exercise intensity.\nBaseline cortisol levels were measured before exercise. Participants then completed their assigned exercise program, followed by a second cortisol measurement immediately after exercise."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#sample-size-power",
+    "href": "projects/hypothalamus-stress.html#sample-size-power",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Sample Size & Power",
+    "text": "Sample Size & Power\nAn a priori power analysis was conducted using **G*Power**.\nThe analysis assumed:\n\nEffect size = 0.40\nSignificance level = 0.05\nStatistical power = 0.80\n\nThe estimated minimum sample size was 64 participants. The planned sample was increased to 72 participants to maintain a balanced experimental design."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#statistical-analysis",
+    "href": "projects/hypothalamus-stress.html#statistical-analysis",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Statistical Analysis",
+    "text": "Statistical Analysis\nThe data were analyzed in R using a linear model and Analysis of Variance (ANOVA).\nThe model tested:\n\nThe main effect of hypothalamic lesion status\nThe main effect of exercise intensity\nThe interaction between lesion status and exercise intensity\nThe effect of sex as a blocking factor\n\nTukey HSD analysis was used for post-hoc comparisons, and residual diagnostics were examined to evaluate model assumptions."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#results",
+    "href": "projects/hypothalamus-stress.html#results",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Results",
+    "text": "Results\n\nCortisol by Lesion Status\n\n\n\nPost-exercise cortisol levels by hypothalamic lesion status.\n\n\nParticipants without hypothalamic lesions showed higher post-exercise cortisol levels than participants with lesions.\nANOVA showed a statistically significant main effect of lesion status, with p &lt; .001.\n\n\nExercise Intensity\nCortisol levels did not show a clear difference across low-, medium-, and high-intensity exercise conditions.\nThe main effect of exercise intensity was not statistically significant, p = .563.\n\n\nLesion Status × Exercise Intensity\n\n\n\nMean post-exercise cortisol levels across exercise intensities by hypothalamic lesion status.\n\n\nThe interaction plot showed similar patterns across exercise intensities for participants with and without hypothalamic lesions.\nThe interaction between lesion status and exercise intensity was not statistically significant, p = .947.\n\n\nEffect of Sex\nSex was a statistically significant blocking factor, p = .017.\nTukey HSD analysis indicated that females had higher cortisol levels than males."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#model-diagnostics",
+    "href": "projects/hypothalamus-stress.html#model-diagnostics",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Model Diagnostics",
+    "text": "Model Diagnostics\n\n\n\nResidual diagnostic plots for the fitted linear model.\n\n\nThe residual plots showed approximately random scatter around zero and relatively constant variance. The Normal Q-Q plot also showed no major departures from normality, supporting the assumptions used for the linear model and ANOVA."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#key-findings",
+    "href": "projects/hypothalamus-stress.html#key-findings",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nHypothalamic lesion status had a statistically significant effect on post-exercise cortisol levels.\nParticipants with hypothalamic lesions showed lower cortisol levels after exercise than participants without lesions.\nExercise intensity did not have a statistically significant main effect.\nThere was no statistically significant interaction between lesion status and exercise intensity.\nSex was a statistically significant blocking factor and was associated with differences in cortisol levels."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#limitations",
+    "href": "projects/hypothalamus-stress.html#limitations",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Limitations",
+    "text": "Limitations\nThe lack of a significant exercise-intensity effect may indicate that the exercise conditions did not produce sufficiently distinct physiological stress responses.\nThe study design also controlled several participant characteristics to increase homogeneity, which may limit how broadly the results can be generalized.\nFuture research could use more objective measures of exercise load or individual fitness level and examine whether hypothalamic lesions affect cortisol responses to other forms of stress, including social, emotional, or mental stressors."
+  },
+  {
+    "objectID": "projects/hypothalamus-stress.html#skills-demonstrated",
+    "href": "projects/hypothalamus-stress.html#skills-demonstrated",
+    "title": "Hypothalamic Lesions & Stress Hormone Responses",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nExperimental Design R ANOVA Randomized Complete Block Design Power Analysis Interaction Effects Tukey HSD Model Diagnostics"
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html",
+    "href": "projects/pedestrian-phone-use.html",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "",
+    "text": "This sampling study examined phone use among pedestrians walking outdoors on the UCLA main campus. The goal was to estimate the proportion of pedestrians actively looking at their phones while walking during a period of high pedestrian traffic.\nBecause obtaining a complete list of pedestrians on campus at a given time is impossible, I used a probability-based cluster sampling design to estimate this behavior from a sample of UCLA campus walkways."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#overview",
+    "href": "projects/pedestrian-phone-use.html#overview",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "",
+    "text": "This sampling study examined phone use among pedestrians walking outdoors on the UCLA main campus. The goal was to estimate the proportion of pedestrians actively looking at their phones while walking during a period of high pedestrian traffic.\nBecause obtaining a complete list of pedestrians on campus at a given time is impossible, I used a probability-based cluster sampling design to estimate this behavior from a sample of UCLA campus walkways."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#research-question",
+    "href": "projects/pedestrian-phone-use.html#research-question",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Research Question",
+    "text": "Research Question\nWhat proportion of pedestrians walking outdoors on the UCLA main campus between 10:30 AM and 1:30 PM on a Thursday in March are actively looking at their phones while walking?\nThis behavior is relevant to pedestrian attention and safety because UCLA has dense pedestrian traffic and multiple modes of transportation, including scooters, skateboards, bikes, pedestrians, and cars."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#sampling-design",
+    "href": "projects/pedestrian-phone-use.html#sampling-design",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Sampling Design",
+    "text": "Sampling Design\nThe target population consisted of pedestrians walking outdoors on the UCLA main academic campus between 10:30 AM and 1:30 PM.\nI identified 103 eligible walkway segments across the UCLA main campus and used these locations as clusters in the sampling frame.\nFrom the 103 clusters, I randomly selected 20 walkway locations without replacement, giving each cluster an equal probability of selection.\n\n\n\nSampling frame of 103 eligible pedestrian walkway clusters across the UCLA main campus."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#data-collection",
+    "href": "projects/pedestrian-phone-use.html#data-collection",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Data Collection",
+    "text": "Data Collection\nAt each randomly selected walkway, I established a fixed imaginary line and observed all pedestrians who crossed the line during a 4-minute observation period.\nEach pedestrian was classified according to whether they were actively looking at their phone at the moment they crossed the line.\nThe final sample contained:\n\n20 randomly selected walkway clusters\n983 pedestrian observations\n103 total clusters in the sampling frame\n\nObservations were collected directly rather than through self-reported surveys, reducing the potential for response bias."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#statistical-analysis",
+    "href": "projects/pedestrian-phone-use.html#statistical-analysis",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Statistical Analysis",
+    "text": "Statistical Analysis\nThe observations were analyzed in Stata using a one-stage cluster sampling estimator.\nWalkway locations were specified as the primary sampling units. The analysis incorporated:\n\nA sampling weight of 103/20\nA finite population correction based on the 103 walkway clusters\nSurvey-adjusted standard errors\nA 95% confidence interval\n\nThe outcome was coded as 1 when a pedestrian was actively looking at their phone and 0 otherwise. The survey-adjusted mean therefore represented the estimated population proportion."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#results",
+    "href": "projects/pedestrian-phone-use.html#results",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Results",
+    "text": "Results\nThe estimated proportion of pedestrians actively looking at their phones while walking was:\n\n20.65%\nThe estimated standard error was 0.00686, with a 95% confidence interval of 19.22% to 22.09%.\n\n\n\nEstimated proportion of pedestrians actively looking at their phones while walking. The point represents the estimated proportion (20.65%), and the error bar represents the 95% confidence interval (19.22%–22.09%).\n\n\nOverall, the results suggest that approximately one in five pedestrians on the UCLA main campus during this period were actively looking at their phones while walking."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#sources-of-bias-limitations",
+    "href": "projects/pedestrian-phone-use.html#sources-of-bias-limitations",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Sources of Bias & Limitations",
+    "text": "Sources of Bias & Limitations\nSeveral factors may have affected the accuracy and generalizability of the estimate.\nData collection occurred on the same day and around the same time as a TA strike outside Royce Hall, which may have altered normal pedestrian traffic patterns.\nSeveral elementary and middle school tour groups were also present. Younger visitors may have been less likely to use smartphones while walking, potentially lowering the estimated proportion. Dense tour groups also made it more difficult to record every pedestrian crossing the observation line.\nPedestrian behavior may also vary within the 10:30 AM–1:30 PM observation window, particularly during class transitions when pedestrian traffic increases.\nFinally, observing each cluster for only four minutes may not fully capture variation in behavior throughout the broader time period."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#strengths",
+    "href": "projects/pedestrian-phone-use.html#strengths",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Strengths",
+    "text": "Strengths\n\nDeveloped a probability-based sampling frame of 103 campus walkways\nRandomly sampled 20 clusters without replacement\nDirectly observed 983 pedestrians\nUsed a clearly defined behavioral outcome rather than self-reported phone use\nAccounted for the cluster sampling design, sampling weights, and finite population correction during estimation"
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#key-takeaways",
+    "href": "projects/pedestrian-phone-use.html#key-takeaways",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nApproximately 20.65% of pedestrians were actively looking at their phones while walking.\nThe 95% confidence interval placed the estimated population proportion between approximately 19% and 22%.\nCluster random sampling made it possible to estimate campus-wide pedestrian behavior without conducting a census.\nDirect behavioral observation reduced response bias, while probability sampling improved the representativeness of the estimate.\nThe project demonstrated how sampling design, field data collection, and survey-adjusted statistical analysis can be combined to study real-world behavior."
+  },
+  {
+    "objectID": "projects/pedestrian-phone-use.html#skills-demonstrated",
+    "href": "projects/pedestrian-phone-use.html#skills-demonstrated",
+    "title": "Pedestrian Phone Use on the UCLA Campus",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nProbability Sampling Cluster Sampling Survey Analysis Stata Field Data Collection Statistical Inference Study Design Data Visualization"
+  },
+  {
+    "objectID": "projects/skin-cancer.html",
+    "href": "projects/skin-cancer.html",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "",
+    "text": "This project used statistical learning methods to predict whether a skin cancer diagnosis was benign or malignant using a synthetic dataset of clinical, demographic, environmental, and behavioral predictors.\nThe training dataset contained 50,000 observations and 50 predictors, while the test dataset contained 20,000 observations. Predictors included UV exposure, mole characteristics, family history, health measures, and lifestyle behaviors.\nThe analysis involved data cleaning, missing-value imputation, feature engineering, model development, and evaluation through a Kaggle classification competition."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#overview",
+    "href": "projects/skin-cancer.html#overview",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "",
+    "text": "This project used statistical learning methods to predict whether a skin cancer diagnosis was benign or malignant using a synthetic dataset of clinical, demographic, environmental, and behavioral predictors.\nThe training dataset contained 50,000 observations and 50 predictors, while the test dataset contained 20,000 observations. Predictors included UV exposure, mole characteristics, family history, health measures, and lifestyle behaviors.\nThe analysis involved data cleaning, missing-value imputation, feature engineering, model development, and evaluation through a Kaggle classification competition."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#research-goal",
+    "href": "projects/skin-cancer.html#research-goal",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Research Goal",
+    "text": "Research Goal\nCan clinical, demographic, and behavioral factors be used to predict skin cancer status using statistical learning methods?\nThe goal was to develop a classification model that could distinguish between benign and malignant cases while maintaining balanced performance across both classes."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#data-preparation",
+    "href": "projects/skin-cancer.html#data-preparation",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Data Preparation",
+    "text": "Data Preparation\nExploratory analysis showed that approximately 8% of predictor values were missing.\nSeveral approaches to missing-data imputation were explored, including MICE and missRanger. More sophisticated methods did not improve classification performance for this dataset, so the final modeling pipeline used mean, median, and mode imputation.\nCategorical predictors were also one-hot encoded for model development."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#feature-engineering",
+    "href": "projects/skin-cancer.html#feature-engineering",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Feature Engineering",
+    "text": "Feature Engineering\nAfter imputation, interaction terms were created to capture relationships in which multiple risk factors could amplify one another.\nExamples included:\n\nUV exposure × health\nAge × UV exposure\nMole characteristic interactions\n\nAcross the models tested, several of the strongest predictors were related to:\n\nMole characteristics: color score and diameter risk\nUV exposure and behavior: UV risk score, tanning bed use, and outdoor activity\nBiological and health factors: overall health score, family history, and age"
+  },
+  {
+    "objectID": "projects/skin-cancer.html#modeling-approach",
+    "href": "projects/skin-cancer.html#modeling-approach",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Modeling Approach",
+    "text": "Modeling Approach\n\nLogistic Regression\nLogistic regression was used as the initial baseline model because of its simplicity and interpretability.\nAfter one-hot encoding, the model contained more than 200 encoded predictors. Although logistic regression provided a useful benchmark, it was limited in its ability to capture the relationships represented by the engineered features.\n\n\nPartial Least Squares\nPartial Least Squares (PLS) was used as a supervised dimension-reduction method to manage the large number of correlated predictors while identifying components associated with the target variable.\n\n\nElastic Net\nElastic Net combined L1 and L2 regularization, allowing the model to perform feature selection while shrinking coefficients for correlated predictors.\nThis provided greater stability when working with the large and highly correlated predictor set."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#final-ensemble-model",
+    "href": "projects/skin-cancer.html#final-ensemble-model",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Final Ensemble Model",
+    "text": "Final Ensemble Model\nRather than relying on a single classifier, the final model combined Partial Least Squares and Elastic Net using a weighted voting system.\nThe probability predictions produced by the two models were combined, with the weights optimized empirically through iterative evaluation on the Kaggle competition platform.\nThis approach combined PLS’s ability to manage correlated predictors with Elastic Net’s regularization and feature-selection capabilities."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#model-performance",
+    "href": "projects/skin-cancer.html#model-performance",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Model Performance",
+    "text": "Model Performance\nThe final ensemble achieved:\n\nKaggle score: 0.60640\nTest accuracy: 60.06%\nSensitivity: 55.05%\nSpecificity: 64.64%\n\n\n\n\nConfusion matrix for the final PLS and Elastic Net ensemble model.\n\n\nThe final model correctly classified 16,892 malignant cases and 13,139 benign cases. Sensitivity and specificity were relatively balanced, indicating that the model did not overwhelmingly favor classification of one outcome over the other."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#limitations",
+    "href": "projects/skin-cancer.html#limitations",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Limitations",
+    "text": "Limitations\nThe dataset was synthetic, so the extent to which relationships between the predictors and skin cancer diagnosis reflect real patient populations is unknown.\nMany predictors were noisy and showed weak relationships with cancer status, limiting overall predictive performance. The use of simple mean, median, and mode imputation may also have reduced natural variation or overlooked relationships in the missing data.\nMost importantly, the dataset contained no skin lesion images, despite visual information being a major component of clinical skin cancer diagnosis. The model therefore represents a complementary risk-assessment approach based on structured clinical and behavioral information rather than a replacement for traditional diagnosis."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#key-takeaways",
+    "href": "projects/skin-cancer.html#key-takeaways",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nDeveloped a classification pipeline using 70,000 total training and test observations and 50 original predictors.\nCompared logistic regression, Partial Least Squares, and Elastic Net approaches.\nEngineered interaction terms to capture relationships among UV exposure, biological health, age, and other risk factors.\nCombined PLS and Elastic Net into a weighted ensemble model.\nAchieved a 0.60640 Kaggle score.\nEvaluated model performance using accuracy, sensitivity, specificity, and a confusion matrix."
+  },
+  {
+    "objectID": "projects/skin-cancer.html#skills-demonstrated",
+    "href": "projects/skin-cancer.html#skills-demonstrated",
+    "title": "Predictive Analysis of Skin Cancer",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nStatistical Learning R Classification Elastic Net Partial Least Squares Logistic Regression Feature Engineering Missing Data Model Evaluation"
+  },
+  {
+    "objectID": "projects/time-series.html",
+    "href": "projects/time-series.html",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "",
+    "text": "Analyzed monthly U.S. Hispanic and Latino unemployment rates from 1973–2026 using differencing, ACF/PACF diagnostics, and SARIMA modeling to identify temporal patterns, evaluate economic shocks, and generate forecasts."
+  },
+  {
+    "objectID": "projects/time-series.html#overview",
+    "href": "projects/time-series.html#overview",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "",
+    "text": "Analyzed monthly U.S. Hispanic and Latino unemployment rates from 1973–2026 using differencing, ACF/PACF diagnostics, and SARIMA modeling to identify temporal patterns, evaluate economic shocks, and generate forecasts."
+  },
+  {
+    "objectID": "projects/time-series.html#research-question",
+    "href": "projects/time-series.html#research-question",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Research Question",
+    "text": "Research Question\nHow can seasonal time series models be used to describe and forecast the monthly U.S. unemployment rate for the Hispanic and Latino workforce?\nTo answer this question, the original series was examined, differencing was applied to address nonstationarity, candidate SARIMA models were compared, residual diagnostics were evaluated, and a 24-month forecast was produced."
+  },
+  {
+    "objectID": "projects/time-series.html#data",
+    "href": "projects/time-series.html#data",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Data",
+    "text": "Data\nThe data were sourced from the Federal Reserve Bank of St. Louis and contain the monthly U.S. unemployment rate for people of Hispanic or Latino origin from March 1973 through May 2026. The unemployment rate is defined as the number of unemployed people as a percentage of the Hispanic and Latino labor force.\nThe original dataset contained one missing value for October 2025. To preserve the regular monthly interval and retain the recent data for forecasting, this value was imputed using the mean of the September and November observations and rounded to 5.1%."
+  },
+  {
+    "objectID": "projects/time-series.html#exploratory-data-analysis",
+    "href": "projects/time-series.html#exploratory-data-analysis",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Exploratory Data Analysis",
+    "text": "Exploratory Data Analysis\nThe Hispanic and Latino unemployment rate does not show a long-term increasing or decreasing trend, but instead fluctuates substantially with periods of sharp increases and gradual decreases. The series also shows longer-run cyclical behavior related to recessions and economic shocks.\nThe largest outlier occurs around 2020, when unemployment reaches its highest value in the series during the COVID-19 pandemic. The ACF of the original series slowly decays and remains positive across many lags, showing strong persistence over time. Together, these patterns suggest that the series is not stationary.\n\n\n\nMonthly U.S. Hispanic and Latino unemployment rate, 1973–2026."
+  },
+  {
+    "objectID": "projects/time-series.html#differencing-and-seasonality",
+    "href": "projects/time-series.html#differencing-and-seasonality",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Differencing and Seasonality",
+    "text": "Differencing and Seasonality\nAfter first differencing, the transformed series fluctuates around a mean near zero, indicating that differencing removed much of the persistence in the original series. However, noticeable peaks remain around lags 12, 24, 36, and 48, suggesting possible annual seasonality.\n\n\n\nACF and PACF after first differencing.\n\n\nAfter applying both first and seasonal differencing, most autocorrelations are near zero and within the confidence bounds. The remaining seasonal pattern suggested that a seasonal MA(1) term could be useful."
+  },
+  {
+    "objectID": "projects/time-series.html#candidate-models",
+    "href": "projects/time-series.html#candidate-models",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Candidate Models",
+    "text": "Candidate Models\nThree candidate models were compared:\n\nSARIMA(1,1,1)(0,1,1)[12]\nSARIMA(2,1,1)(0,1,1)[12]\nSARIMA(1,1,2)(0,1,1)[12]\n\nThe residual diagnostics for all three models were very similar. Standardized residuals fluctuated around zero with no obvious trend or seasonal pattern, most residual autocorrelations fell within the confidence bounds, and Ljung–Box p-values were mostly above 0.05. However, all models retained a large residual spike around 2020 corresponding to the COVID-19 pandemic."
+  },
+  {
+    "objectID": "projects/time-series.html#selected-model",
+    "href": "projects/time-series.html#selected-model",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Selected Model",
+    "text": "Selected Model\nSince the residual diagnostics were similar across candidate models, the final model was selected using AIC, AICc, and BIC.\nSARIMA(1,1,2)(0,1,1)[12] had the lowest AIC and AICc values, while SARIMA(1,1,1)(0,1,1)[12] had the lowest BIC. Because the improvement in AIC and AICc for the more complex models was minimal, SARIMA(1,1,1)(0,1,1)[12] was selected as the final model because it provided a balance between goodness of fit and simplicity.\nAll estimated coefficient terms in the selected model were statistically significant.\n\n\n\nResidual diagnostics for the selected SARIMA model."
+  },
+  {
+    "objectID": "projects/time-series.html#forecasting",
+    "href": "projects/time-series.html#forecasting",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Forecasting",
+    "text": "Forecasting\nThe selected SARIMA(1,1,1)(0,1,1)[12] model was used to produce a 24-month forecast beginning after May 2026.\nThe forecast suggests that the Hispanic and Latino unemployment rate will remain relatively stable over the next two years, ranging between approximately 4.2% and 5.5%. The forecast shows month-to-month variation but no major upward or downward trend, while prediction intervals widen over the forecast horizon as uncertainty increases.\n\n\n\n24-month forecast of the Hispanic and Latino unemployment rate."
+  },
+  {
+    "objectID": "projects/time-series.html#limitations",
+    "href": "projects/time-series.html#limitations",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Limitations",
+    "text": "Limitations\nA major limitation of the analysis is the presence of unexpected economic shocks, particularly the COVID-19 unemployment spike in 2020. The model also relies only on historical unemployment rates and does not incorporate external predictors such as inflation, policy changes, recession indicators, or structural labor-market factors."
+  },
+  {
+    "objectID": "projects/time-series.html#key-takeaways",
+    "href": "projects/time-series.html#key-takeaways",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nFirst and seasonal differencing were used to address nonstationarity and remaining annual seasonality.\nCandidate SARIMA models were compared using residual diagnostics and information criteria.\nSARIMA(1,1,1)(0,1,1)[12] was selected as the final model because it balanced goodness of fit and simplicity.\nThe final model forecast Hispanic and Latino unemployment to remain around 4.2%–5.5% over the following 24 months.\nThe analysis shows how time series models can identify trends, seasonality, and dependence in unemployment data while also illustrating the limits of forecasting unexpected disruptions."
+  },
+  {
+    "objectID": "projects/time-series.html#skills-demonstrated",
+    "href": "projects/time-series.html#skills-demonstrated",
+    "title": "A Time Series Analysis of the U.S. Hispanic and Latino Unemployment Rate",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\nR Time Series Analysis SARIMA Forecasting ACF/PACF Model Diagnostics Data Visualization"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fabiola Campuzano",
+    "section": "",
+    "text": "Statistics & Data Science + Cognitive Science\n📍 Los Angeles, CA\nLinkedIn\nGitHub\n\n\n\n\nStatistics & Data Science and Cognitive Science graduate interested in behavioral research, public health, and quantitative approaches to understanding human behavior.\n\n\nI am interested in using data to study questions related to cognition, health, and human behavior.\nMy experience includes behavioral research, experimental design, survey development, statistical analysis, and human-subject research.\nI am particularly interested in opportunities at the intersection of public health, epidemiology, behavioral science, and data analysis.\n\n\n\nI currently work as a research assistant in the Rissman Memory Lab at UCLA, supporting a cognitive neuroscience study examining memory processes in naturalistic contexts using mobile EEG.\nMy work includes developing Qualtrics surveys, preparing experimental protocols, selecting stimuli, implementing cognitive and creativity measures, and preparing for EEG-based participant sessions."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Fabiola Campuzano",
+    "section": "",
+    "text": "I am interested in using data to study questions related to cognition, health, and human behavior.\nMy experience includes behavioral research, experimental design, survey development, statistical analysis, and human-subject research.\nI am particularly interested in opportunities at the intersection of public health, epidemiology, behavioral science, and data analysis."
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Fabiola Campuzano",
+    "section": "",
+    "text": "I currently work as a research assistant in the Rissman Memory Lab at UCLA, supporting a cognitive neuroscience study examining memory processes in naturalistic contexts using mobile EEG.\nMy work includes developing Qualtrics surveys, preparing experimental protocols, selecting stimuli, implementing cognitive and creativity measures, and preparing for EEG-based participant sessions."
+  }
+]

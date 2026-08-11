@@ -1,0 +1,63 @@
+---
+title: "Portfolio"
+---
+
+A selection of projects in statistical analysis, behavioral research, cognitive science, and health research.
+
+## Time Series Analysis of U.S. Hispanic and Latino Unemployment
+
+**Time Series \| Forecasting \| R**
+
+Analyzed monthly U.S. Hispanic and Latino unemployment rates from 1973–2026 using differencing, ACF/PACF diagnostics, and SARIMA modeling to identify temporal patterns, evaluate economic shocks, and generate forecasts.
+
+**Methods:** R · Time Series Analysis · SARIMA · Forecasting · ACF/PACF · Model Diagnostics · Data Visualization ·
+
+[View Project →](projects/time-series.qmd)
+
+------------------------------------------------------------------------
+
+## Fill_ng in th_ Bl_nks: The Value of Orthographic Cues
+
+**Cognitive Psychology \| Experimental Design \| Statistical Analysis**
+
+This experimental study examined whether removing a vowel from words, or decreasing available orthographic cues, influences memory performance and subjective cognitive load ratings.
+
+**Methods:** Experimental Design · Cognitive Psychology · Memory Research · Data Analysis · Hypothesis Testing · Research Methods · Scientific Communication ·
+
+[View Project →](projects/word-format-memory.qmd)
+
+------------------------------------------------------------------------
+
+## Pedestrian Phone Use Study
+
+**Survey Research \| Sampling \| Stata**
+
+Designed and conducted a cluster sampling study of 983 pedestrians across 20 randomly selected UCLA walkways to estimate pedestrian phone use. Used survey-weighted analysis in Stata to estimate that 20.65% of pedestrians were actively looking at their phones while walking. 
+
+**Methods:** Probability Sampling · Cluster Sampling · Survey Analysis · Stata · Field Data Collection · Statistical Inference · Study Design · 
+
+[View Project →](projects/pedestrian-phone-use.qmd)
+
+------------------------------------------------------------------------
+
+## Predictive Analysis of Skin Cancer
+
+**Health Data \| Machine Learning \| R**
+
+Developed and evaluated statistical learning models to classify skin cancer status using 50 clinical and behavioral predictors across 70,000 training and test observations. Applied missing-data imputation, feature engineering, Partial Least Squares, and Elastic Net to develop a weighted ensemble model that achieved a 0.60640 Kaggle score.
+
+**Methods:** Statistical Learning · R · Classification · Elastic Net · Partial Least Squares · Logistic Regression · Feature Engineering · Missing Data · Model Evaluation ·
+
+[View Project →](projects/skin-cancer.qmd)
+
+------------------------------------------------------------------------
+
+## Hypothalamus & Stress
+
+**Neuroscience \| Health Research \| Scientific Communication**
+
+Designed and analyzed a randomized complete block experiment with 72 participants to investigate the effects of hypothalamic lesions and exercise intensity on cortisol responses to physiological stress. Applied ANOVA, Tukey HSD, power analysis, and residual diagnostics in R, identifying significant effects of lesion status and sex on post-exercise cortisol levels. 
+
+**Methods:** Experimental Design · R · ANOVA · Randomized Complete Block Design · Power Analysis · Interaction Effects · Tukey HSD · Model Diagnostics ·
+
+[View Project →](projects/hypothalamus-stress.qmd)

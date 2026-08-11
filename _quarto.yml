@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/**
+
+website:
+  title: "Fabiola Campuzano"
+  navbar:
+    left:
+      - href: files/fabiola_campuzano_resume.pdf
+        text: CV/Resume
+      - href: projects.qmd
+        text: Portfolio
+      - href: experience.qmd
+        text: Experience
+    right:
+      - icon: linkedin
+        href: www.linkedin.com/in/fabiolacampuzano
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
