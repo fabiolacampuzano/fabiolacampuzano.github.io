@@ -1,0 +1,12 @@
+---
+title: "Writing"
+---
+
+Short articles exploring cognitive psychology, neuroscience, health, and data.
+
+[## Why Your Brain Fails You at the Worst Possible Time](articles/stress-memory/index.qmd) 
+
+How does anxiety affect learning and memory? How about test-taking anxiety in particular? Is there such a thing as 'good' stress?
+
+**Memory · Psychology · Neuroscience**
+

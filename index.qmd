@@ -21,20 +21,22 @@ Statistics & Data Science + Cognitive Science
 ::: profile-main
 # Fabiola Campuzano
 
-Statistics & Data Science and Cognitive Science graduate interested in behavioral research, public health, and quantitative approaches to understanding human behavior.
+I'm a recent UCLA graduate with degrees in Statistics & Data Science and Cognitive Science with a Specialization in Computing, with experience in behavioral research, experimental design, and data analysis. 
 
 ## About Me
 
-I am interested in using data to study questions related to cognition, health, and human behavior.
+I'm interested in understanding human behavior and health through research. 
 
-My experience includes behavioral research, experimental design, survey development, statistical analysis, and human-subject research.
+I'm passionate about topics related to neuroscience, psychology, mental health, and public health, and using applied statistics and machine learning.
 
-I am particularly interested in opportunities at the intersection of **public health, epidemiology, behavioral science, and data analysis**.
+Outside of research and data, I like to go to concerts, read, watch movies, and listen to music. My top three favorite movies are The Truman Show, Donnie Darko, and Whiplash!  
 
 ## Current Work
 
-I currently work as a research assistant in the Rissman Memory Lab at UCLA, supporting a cognitive neuroscience study examining memory processes in naturalistic contexts using **mobile EEG**.
+I currently work as a research assistant in the Rissman Memory Lab at UCLA, supporting a cognitive neuroscience study examining memory, consolidation, and cognition using behavioral, physiological, and EEG methods.
 
-My work includes developing Qualtrics surveys, preparing experimental protocols, selecting stimuli, implementing cognitive and creativity measures, and preparing for EEG-based participant sessions.
+My work includes developing and programming experiential methods into 4 Qualtrics surveys, including cognitive measures, questionnaires, and post-encoding memory assessments. I also contributed to study development by conducting a literature review, evaluating experimental stimuli, developing memory-test questions, and refining participant procedures.
+
+I also aim to write accessible, research-informed articles exploring psychology, neuroscience, mental health, and related topics. My goal is to translate scientific research into digestible and engaging explanations for a general audience.  
 :::
 :::::

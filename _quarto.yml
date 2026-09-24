@@ -14,6 +14,8 @@ website:
         text: Portfolio
       - href: experience.qmd
         text: Experience
+      - href: writing.qmd
+        text: Writing
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/fabiolacampuzano/

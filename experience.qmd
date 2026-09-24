@@ -8,14 +8,9 @@ title: "Experience"
 
 **UCLA Rissman Memory Lab**
 
-Supported behavioral research examining **memory, consolidation, and creativity** through experimental and survey-based methods.
-
-- Developed **4 Qualtrics surveys** and experimental protocols for behavioral research.
-- Supported the development and implementation of cognitive and creativity measures.
-- Contributed to **stimulus selection, study design, and experimental procedures**.
-- Managed human-subject data collection procedures for **1.5-hour experimental sessions**.
-- Maintained study documentation and followed research protocols to support data quality and consistency.
-- Gained experience with **EEG research methods** and behavioral data collection.
+- Supported human-subject research examining memory, consolidation, and cognition using behavioral, physiological, and EEG methods.
+- Developed and programmed experiential methods into 4 Qualtrics surveys, including cognitive measures, questionnaires, and post-encoding memory assessments. 
+- Contributed to study development by conducting a literature review, evaluating experimental stimuli, developing memory-test questions, and refining participant procedures.
 
 **Skills:** `Behavioral Research` `Qualtrics` `Experimental Design` `Human-Subjects Research` `EEG` `Data Collection`
 
@@ -27,12 +22,11 @@ Supported behavioral research examining **memory, consolidation, and creativity*
 
 **Design, Entertainment & Social Media Committee**
 
-Contributed to the planning, promotion, and execution of a **3-day admitted-student program** designed to connect newly admitted Latinx students and their families with UCLA resources and community.
-
-- Participated in **weekly planning meetings** and coordinated programming and event logistics serving **50+ attendees**
-- Designed **10+ promotional graphics and flyers** for fundraising events, networking opportunities, and event countdowns
-- Managed and scheduled content across **4 social media platforms**: Instagram, Facebook, X, and LinkedIn
-- Supported digital outreach to an audience of **1,500+ followers**
+- Participated in weekly meetings to organize a 3-day event aimed at welcoming and supporting newly admitted Latinx students to UCLA. 
+- Coordinated event logistics and collaborated with committee members on programming serving 50+ admitted students and families.
+- Designed 10+ promotional graphics and flyers for fundraising events, networking opportunities, and event countdowns.
+- Managed and scheduled content across 4 social media platforms (Instagram, Facebook, X, and LinkedIn) to promote a 3-day admitted student event and student resources. 
+- Coordinated timely event updates and outreach content for an audience of 1,500+ followers, maintaining consistent communication throughout the planning cycle.
 
 **Skills:** `Project Coordination` `Social Media` `Digital Communication` `Graphic Design` `Community Outreach`
 
@@ -40,11 +34,8 @@ Contributed to the planning, promotion, and execution of a **3-day admitted-stud
 
 **Volunteer**
 
-Supported a campus blood donation event through donor outreach and on-site assistance.
-
-- Promoted blood donation by explaining eligibility requirements and recruiting potential donors, supporting an event goal of approximately **40 pints**
-- Helped guide and assist **40+ donors** throughout the donation process
-- Assisted with event setup and donor-care areas, including preparation of the gym and refreshment station
+- Promoted blood donation and communicated eligibility requirements to prospective donors, supporting a community blood drive with a 40-pint collection goal.
+- Guided approximately 50+ donors through check-in and donation areas, providing directions and supporting an organized donor experience.
 
 **Skills:** `Health Outreach` `Community Engagement` `Event Support` `Communication`
 
@@ -52,11 +43,8 @@ Supported a campus blood donation event through donor outreach and on-site assis
 
 **Peer Health Advocate**
 
-Supported tobacco-use prevention and health education initiatives focused on smoking and vaping.
-
-- Researched the health effects of smoking and vaping and translated findings into **5+ educational posters and 1 presentation**
-- Participated in **weekly peer meetings** over an **11-month program** to discuss tobacco prevention and community outreach
-- Developed educational materials promoting tobacco prevention and healthier alternatives
+- Researched health risks of smoking and vaping, and translated findings into 5+ educational materials (presentations, posters) promoting tobacco prevention and healthy alternatives. 
+- Collaborated with peers in weekly meetings over 11 months to develop prevention messaging and support community outreach initiatives.
 
 **Skills:** `Health Education` `Health Communication` `Research` `Community Outreach`
 
